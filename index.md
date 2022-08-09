@@ -11,16 +11,16 @@
 
 ## 资源
 - [GitHub](https://github.com/XuHg-zjcn):XuHg-zjcn
-- [Gitee](https://gitee.com/xu-ruijun'):xu-ruijun
+- [Gitee](https://gitee.com/xu-ruijun):xu-ruijun
 - [bilibili](https://space.bilibili.com/549255197):科技骏马(建议使用第三方自由的客户端)
 
 ## 联系方式
 - [jami](https://jami.net): techhorse(自由的聊天软件，建议使用)
 - QQ: 1687701765(非自由软件，不推荐使用)
-- email: 1687701765 (at) qq.com
+- email: 1687701765 (at) qq.com  
 如果需要向我发送加密邮件，请使用[我的GPG公钥](mypubkey.gpg)加密，如果需要加密回信，请在邮件中提供你的公钥。
 
 ---
 
-Copyright © 2022 徐瑞骏
-本页面使用[知识共享 署名-禁止演绎 4.0 国际协议(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-nd/4.0/)授权。
+Copyright © 2022 徐瑞骏  
+本页面使用[知识共享 署名-禁止演绎 4.0 国际协议(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-nd/4.0/)授权。  
