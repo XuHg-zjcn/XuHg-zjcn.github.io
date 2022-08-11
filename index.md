@@ -27,4 +27,4 @@
 ---
 
 Copyright © 2022 徐瑞骏  
-本页面使用[知识共享 署名-禁止演绎 4.0 国际协议(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-nd/4.0/)授权。  
+本页面使用[知识共享 署名-禁止演绎 4.0 国际协议(CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/)授权。  
