@@ -10,9 +10,13 @@
 这是一个GitHub Pages搭建的网站，感谢微软提供支持，但我不会在没有[合理理由](https://www.gnu.org/philosophy/is-ever-good-use-nonfree-program.html)下使用他们提供的非自由软件
 
 ## 资源
-- [GitHub](https://github.com/XuHg-zjcn):XuHg-zjcn
-- [Gitee](https://gitee.com/xu-ruijun):xu-ruijun
-- [bilibili](https://space.bilibili.com/549255197):科技骏马(建议使用第三方自由的客户端)
+- GitHub:[XuHg-zjcn](https://github.com/XuHg-zjcn)
+- Gitee:[xu-ruijun](https://gitee.com/xu-ruijun)
+- CSDN:[XuHg-zjcn](https://blog.csdn.net/qqttd281418216)
+- 知乎:[科技骏马](https://www.zhihu.com/people/ke-ji-jun-ma)
+- bilibili:[科技骏马](https://space.bilibili.com/549255197)  
+建议使用自由的第三方客户端访问bilibili，如[bilimiao](https://github.com/10miaomiao/bilimiao2)  
+在浏览器上访问知乎可以使用[LibreJS](https://www.gnu.org/software/librejs/)屏蔽非自由的JavaScript脚本，仍然能使用部分功能  
 
 ## 联系方式
 - [jami](https://jami.net): techhorse(自由的聊天软件，建议使用)
