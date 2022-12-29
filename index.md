@@ -14,14 +14,18 @@
 - Gitee:[xu-ruijun](https://gitee.com/xu-ruijun)
 - CSDN:[XuHg-zjcn](https://blog.csdn.net/qqttd281418216)
 - 知乎:[科技骏马](https://www.zhihu.com/people/ke-ji-jun-ma)
-- bilibili:[科技骏马](https://space.bilibili.com/549255197)  
+- bilibili:[科技骏马](https://space.bilibili.com/549255197)
+- Mastodon: [@xuruijun@hello.2heng.xin](https://hk1.fores.top/@xuruijun)
+
 建议使用自由的第三方客户端访问bilibili，如[bilimiao](https://github.com/10miaomiao/bilimiao2)  
 在浏览器上访问知乎可以使用[LibreJS](https://www.gnu.org/software/librejs/)屏蔽非自由的JavaScript脚本，仍然能使用部分功能  
 
 ## 联系方式
-- [jami](https://jami.net): techhorse(自由的聊天软件，建议使用)
+- [jami](https://jami.net): techhorse
+- Matrix: @techhorse:halogen.city
 - QQ: 1687701765(非自由软件，不推荐使用)
-- email: 1687701765 (at) qq.com  
+- email: 1687701765 (at) qq.com
+
 如果需要向我发送加密邮件，请使用[我的GPG公钥](mypubkey.gpg)加密，如果需要加密回信，请在邮件中提供你的公钥。
 
 ---
