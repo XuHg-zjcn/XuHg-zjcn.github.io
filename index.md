@@ -7,7 +7,8 @@
 我有一些庞大的[项目](projects.md)，可是以我一个人的力量难以完成，希望有人能帮助我完成。  
 
 ## 关于本站
-这是一个GitHub Pages搭建的网站，感谢微软提供支持，但我不会在没有[合理理由](https://www.gnu.org/philosophy/is-ever-good-use-nonfree-program.html)下使用他们提供的非自由软件
+这是一个GitHub Pages搭建的网站，感谢微软提供支持，但我不会在没有[合理理由](https://www.gnu.org/philosophy/is-ever-good-use-nonfree-program.html)下使用他们提供的非自由软件  
+本站打算不再维护，请访问[我的Codeberg Pages](https://techhorse.codeberg.page)。因为GitHub是专有的，[SFC建议放弃GitHub](https://sfconservancy.org/GiveUpGitHub)
 
 ## 资源
 ### 代码仓库

@@ -19,6 +19,7 @@ PDFS(Personal Distributed File System)是一个专为个人储存文件而设计
 
 目前主流的分布式文件系统的节点需要一直开机，个人通常无法承担独自搭建的费用。  
 PDFS可以使用U盘、光盘等需要手动加载的储存介质，为了省电而通常关机的节点可以使用WOL(Wake On Lan)唤醒  
+[Codeberg仓库](https://codeberg.org/techhorse/pdfs)
 
 ### 磁盘测试工具
 目前我用过的磁盘(U盘，硬盘等)测试工具大多数都是Windows下的，而且不是自由软件。  
@@ -49,7 +50,7 @@ PDFS可以使用U盘、光盘等需要手动加载的储存介质，为了省电
 ### IPv6Net网络
 目前我的宽带和手机流量能获取动态公网IPv6地址，每次IPv6地址变化后都需要手动修改，很麻烦。  
 我不想使用第三方的DDNS解析服务，自己实现一个IPv6地址同步工具。  
-[GitHub仓库](https://github.com/XuHg-zjcn/IPv6-Net)
+[GitHub仓库](https://github.com/XuHg-zjcn/IPv6-Net), [Codeberg仓库](https://codeberg.org/techhorse/IPv6-Net)
 
 ### 微弱语音信号提取
 能用于信噪比比较低的模拟电台信号增强  
